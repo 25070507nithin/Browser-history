@@ -1,0 +1,43 @@
+li {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.content-container {
+  display: flex;
+}
+
+.time-accessed {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #475569;
+  font-weight: 500;
+  margin-right: 25px;
+}
+.logo-url {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+  margin-top: 15px;
+}
+.title {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #475569;
+  font-weight: 500;
+  margin-right: 10px;
+}
+.domain-url {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #475569;
+  font-weight: 500;
+  margin-top: 25px;
+}
+.delete {
+  border: none;
+  background-color: transparent;
+  margin-right: 10px;
+}
